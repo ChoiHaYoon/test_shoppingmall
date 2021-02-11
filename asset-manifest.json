@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.dbd0fc0b.chunk.css",
-    "main.js": "/static/js/main.4844f84f.chunk.js",
-    "main.js.map": "/static/js/main.4844f84f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.de7e2bdc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.de7e2bdc.js.map",
-    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
-    "static/js/2.212bd3c0.chunk.js": "/static/js/2.212bd3c0.chunk.js",
-    "static/js/2.212bd3c0.chunk.js.map": "/static/js/2.212bd3c0.chunk.js.map",
-    "static/js/3.2f7c55f8.chunk.js": "/static/js/3.2f7c55f8.chunk.js",
-    "static/js/3.2f7c55f8.chunk.js.map": "/static/js/3.2f7c55f8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.dbd0fc0b.chunk.css.map": "/static/css/main.dbd0fc0b.chunk.css.map",
-    "static/js/2.212bd3c0.chunk.js.LICENSE.txt": "/static/js/2.212bd3c0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/background.5c30795d.jpg"
+    "main.css": "/test_shoppingmall/static/css/main.e50164a9.chunk.css",
+    "main.js": "/test_shoppingmall/static/js/main.4844f84f.chunk.js",
+    "main.js.map": "/test_shoppingmall/static/js/main.4844f84f.chunk.js.map",
+    "runtime-main.js": "/test_shoppingmall/static/js/runtime-main.cecfc904.js",
+    "runtime-main.js.map": "/test_shoppingmall/static/js/runtime-main.cecfc904.js.map",
+    "static/css/2.150d169a.chunk.css": "/test_shoppingmall/static/css/2.150d169a.chunk.css",
+    "static/js/2.601dd28b.chunk.js": "/test_shoppingmall/static/js/2.601dd28b.chunk.js",
+    "static/js/2.601dd28b.chunk.js.map": "/test_shoppingmall/static/js/2.601dd28b.chunk.js.map",
+    "static/js/3.2f7c55f8.chunk.js": "/test_shoppingmall/static/js/3.2f7c55f8.chunk.js",
+    "static/js/3.2f7c55f8.chunk.js.map": "/test_shoppingmall/static/js/3.2f7c55f8.chunk.js.map",
+    "index.html": "/test_shoppingmall/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/test_shoppingmall/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.e50164a9.chunk.css.map": "/test_shoppingmall/static/css/main.e50164a9.chunk.css.map",
+    "static/js/2.601dd28b.chunk.js.LICENSE.txt": "/test_shoppingmall/static/js/2.601dd28b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/test_shoppingmall/static/media/background.5c30795d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.de7e2bdc.js",
+    "static/js/runtime-main.cecfc904.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.212bd3c0.chunk.js",
-    "static/css/main.dbd0fc0b.chunk.css",
+    "static/js/2.601dd28b.chunk.js",
+    "static/css/main.e50164a9.chunk.css",
     "static/js/main.4844f84f.chunk.js"
   ]
 }
